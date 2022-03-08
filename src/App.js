@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>React Posts Sharer</h1>
       </header>
     </div>
   );
