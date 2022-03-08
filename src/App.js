@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <h1>This is on the development branch</h1>
+        <h1>This is on the development branch strike two</h1>
       </header>
     </div>
   );
