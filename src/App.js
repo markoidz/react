@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <h1>React Posts Sharer</h1>
+        <h1>This is on the development branch</h1>
       </header>
     </div>
   );
